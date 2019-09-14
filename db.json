@@ -5,8 +5,17 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 0, "Light 1": "ON", "D0": "HIGH" },
+    { "id": 1, "LIGHT 1": "OFF", "D0": "LOW" },
+    
+     { "id": 2, "Light 2": "ON", "D1": "HIGH" },
+    { "id": 3, "LIGHT 2": "OFF", "D1": "LOW" },
+    
+     { "id": 4, "Light 3": "ON", "D2": "HIGH" },
+    { "id": 5, "LIGHT 3": "OFF", "D2": "LOW" },
+    
+     { "id": 6, "Light 4": "ON", "D3": "HIGH" },
+    { "id": 7, "LIGHT 4": "OFF", "D3": "LOW" },
   ],
   "profile": {
     "name": "typicode"
